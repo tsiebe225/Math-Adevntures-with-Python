@@ -11,7 +11,7 @@ def drawShapeRot(turtleImp, numberofRepreats = 20, angleDelta = 18, length = 100
         drawShape(turtleImp,length,sides)
         turtleImp.right(angleDelta)
 
-def drawShapeSpiralOffset(turtleImp, numberofRepreats = 20, angleDelta = 18, length = 100, sides = 4, posDelta = 25):
+def drawShapeSpiralOffset(turtleImp, numberofRepreats = 20, angleDelta = 18, length = 100, sides = 5, posDelta = 25):
     for i in range(0,numberofRepreats):
         drawShape(turtleImp,length,sides)
         turtleImp.right(angleDelta)
