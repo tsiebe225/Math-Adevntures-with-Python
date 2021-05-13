@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed4ceaf4-597d-47a2-b8ef-b4d701641aca" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/conditionals.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wander.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/numberGame.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/squareRoot.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -75,7 +74,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="wander.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="wander.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wander.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
@@ -83,6 +82,26 @@
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="numberGame.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/numberGame.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="482">
+              <caret line="35" column="7" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="squareRoot.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/squareRoot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -109,6 +128,8 @@
         <option value="$PROJECT_DIR$/tediousArith.py" />
         <option value="$PROJECT_DIR$/conditionals.py" />
         <option value="$PROJECT_DIR$/wander.py" />
+        <option value="$PROJECT_DIR$/numberGame.py" />
+        <option value="$PROJECT_DIR$/squareRoot.py" />
       </list>
     </option>
   </component>
@@ -164,7 +185,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.wander">
+  <component name="RunManager" selected="Python.squareRoot">
     <configuration name="conditionals" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -183,7 +204,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="drawShape" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="numberGame" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -195,13 +216,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="MathAdventuresWithPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/drawShape.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/numberGame.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="squareTurtle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="squareRoot" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -213,7 +234,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="MathAdventuresWithPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/squareTurtle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/squareRoot.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -256,19 +277,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.squareTurtle" />
-      <item index="1" class="java.lang.String" itemvalue="Python.drawShape" />
-      <item index="2" class="java.lang.String" itemvalue="Python.tediousArith" />
-      <item index="3" class="java.lang.String" itemvalue="Python.conditionals" />
-      <item index="4" class="java.lang.String" itemvalue="Python.wander" />
+      <item index="0" class="java.lang.String" itemvalue="Python.tediousArith" />
+      <item index="1" class="java.lang.String" itemvalue="Python.conditionals" />
+      <item index="2" class="java.lang.String" itemvalue="Python.wander" />
+      <item index="3" class="java.lang.String" itemvalue="Python.numberGame" />
+      <item index="4" class="java.lang.String" itemvalue="Python.squareRoot" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.wander" />
-        <item index="1" class="java.lang.String" itemvalue="Python.conditionals" />
-        <item index="2" class="java.lang.String" itemvalue="Python.tediousArith" />
-        <item index="3" class="java.lang.String" itemvalue="Python.drawShape" />
-        <item index="4" class="java.lang.String" itemvalue="Python.squareTurtle" />
+        <item index="0" class="java.lang.String" itemvalue="Python.squareRoot" />
+        <item index="1" class="java.lang.String" itemvalue="Python.numberGame" />
+        <item index="2" class="java.lang.String" itemvalue="Python.wander" />
+        <item index="3" class="java.lang.String" itemvalue="Python.conditionals" />
+        <item index="4" class="java.lang.String" itemvalue="Python.tediousArith" />
       </list>
     </recent_temporary>
   </component>
@@ -376,6 +397,22 @@
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/numberGame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="35" column="7" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/squareRoot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
